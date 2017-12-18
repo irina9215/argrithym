@@ -15,6 +15,7 @@
   - basic unit, 5 appears 259 times.
   - ten place， 5 appears 250 + 10 times.
   - hundred,  200 + 93 + 1 times.
+
   Sum up, 
 
    - the i digit from right, its number(0-9) is g, the left number of g is numLeft,  the basic count is a = numLeft * (i-1) power of 10
