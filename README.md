@@ -24,3 +24,6 @@
       - if g < k, count = a;
       - if g = k,  take the right number of g as rightNum,  count =  a + rightNum + 1
   - when k = 0, the highest digit can not be 0, thus, basic count shoud be numLeft * (i-1) power of 10, subtract 1.
+  
+
+  ### Sorted Binary Node Tree ###
