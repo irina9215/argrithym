@@ -1,14 +1,14 @@
 # argrithym
 
 
- ### Ugly number ###
+ ### 1. Ugly number ###
 
   - Ugly numbers are positive numbers whose prime factors only include 2, 3, 5. For example, 6, 8 are ugly while 14 is not ugly since it includes another prime factor 7.
   Note that 1 is typically treated as an ugly number.
   In my javaScript program, there is a defect. The Time Limit Exceeded.  
 
 
-  ### counts how many times digi k appearence? ### 
+  ### 2. Counts how many times digi k appearence? ### 
 
   Take number 2593, digi 5 as example. 
 
@@ -26,10 +26,10 @@
   - when k = 0, the highest digit can not be 0, thus, basic count shoud be numLeft * (i-1) power of 10, subtract 1.
 
 
-  ### Sorted Binary Node Tree ###
+  ### 3. Sorted Binary Node Tree ###
 
 
- ### count how many 1 in binary ###
+ ### 4. Count how many 1 in binary ###
  
  把 一个 整数 减去 1， 再 和 原 整数 做 与 运算， 会把 该 整数 最 右边 一个 1 变成 0。 那么 一个 整数 的 二进制 表示 中有 多少 个 1， 就可以 进行 多少 次 这样 的 操作。
   
