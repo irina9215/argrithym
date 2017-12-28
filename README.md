@@ -35,7 +35,9 @@
 
  ### 5. An integer, denote the number of trailing zeros in n! ### 
 
- Take 101 as example,
+ Take 101 as example
+
+
  <img src="http://img.blog.csdn.net/20160416152912230" width = "300" height = "200" alt="图片名称" align=center />
 
   
