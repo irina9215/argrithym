@@ -32,4 +32,10 @@
  ### 4. Count how many 1 in binary ###
  
  把 一个 整数 减去 1， 再 和 原 整数 做 与 运算， 会把 该 整数 最 右边 一个 1 变成 0。 那么 一个 整数 的 二进制 表示 中有 多少 个 1， 就可以 进行 多少 次 这样 的 操作。
+
+ ### 5. An integer, denote the number of trailing zeros in n! ### 
+
+ Take 101 as example,
+ <img src="http://img.blog.csdn.net/20160416152912230" width = "300" height = "200" alt="图片名称" align=center />
+
   

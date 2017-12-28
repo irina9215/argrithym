@@ -89,7 +89,7 @@ function levelRoot(node) {
   }
 }
 
-//main
+
 insert(6);
 insert(11);
 insert(4);
