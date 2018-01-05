@@ -37,6 +37,7 @@ const kthLargestElement = function (n, nums) {
     quickSort(i + 1, right);
   };
   quickSort(1, nums.length);
+  console.log(nums);
   return nums[n - 1];
 }
 
